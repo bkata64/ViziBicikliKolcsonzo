@@ -1,0 +1,12 @@
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.csprojAssemblyReference.cache
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.AssemblyInfoInputs.cache
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.AssemblyInfo.cs
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\kolcsonzesek.txt
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.deps.json
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.runtimeconfig.json
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.runtimeconfig.dev.json
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.dll
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\bin\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.pdb
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.dll
+C:\Users\szeszi-pc\source\repos\ViziBicikliKolcsonzo\ViziBicikliKolcsonzo\obj\Debug\netcoreapp2.1\ViziBicikliKolcsonzo.pdb
